@@ -1,7 +1,9 @@
 This is a instruction file of this project.
 This is the best project of node.
 
+For images go to images folder.
 
+Hello this is the instruction file for people.
 You can define what you have done in this project in the file.
 
 Adding more instructions i.e.,
